@@ -2,4 +2,4 @@
 
 1. Concatenar PDFs;
 2. Pivotar tabelas;
-3. Análise COVID-19 Brasil vs Resto do Mundo
+3. Leitura de Bases de Dados do TABWIN 
